@@ -10,4 +10,4 @@ Tämän projektin tarkoitus on harjoitella Git-peruskäskyjä.
 - Terminaali
 
 ## Uusi ominaisuus
-- Lisätty haara feature-readme
+- Tämä rivi on muokattu CONFLICT-BRANCH-haarassa
