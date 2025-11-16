@@ -8,3 +8,6 @@ Tämän projektin tarkoitus on harjoitella Git-peruskäskyjä.
 - Git
 - VS Code
 - Terminaali
+
+## Uusi ominaisuus
+- Lisätty haara feature-readme
