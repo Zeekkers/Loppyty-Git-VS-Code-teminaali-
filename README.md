@@ -10,4 +10,4 @@ Tämän projektin tarkoitus on harjoitella Git-peruskäskyjä.
 - Terminaali
 
 ## Uusi ominaisuus
-- Lisätty haara feature-readme
+- Riviä muokattu MAIN-haarassa
