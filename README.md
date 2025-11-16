@@ -11,3 +11,5 @@ Tämän projektin tarkoitus on harjoitella Git-peruskäskyjä.
 
 ## Uusi ominaisuus
 - Riviä muokattu MAIN-haarassa
+- Tämä rivi on muokattu CONFLICT-BRANCH-haarassa
+
