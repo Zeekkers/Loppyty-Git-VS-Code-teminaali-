@@ -43,3 +43,7 @@ Tämän projektin tarkoitus on harjoitella Git-peruskäskyjä.
 ## Mitä opin
 
 - Tämän harjoituksen aikana opin Gitin koko työnkulun repositorion luonnista aina SSH-yhteyteen, haaroihin, merge-konflikteihin, cherry-pickiin, rebaseen ja pull request prosessiin asti. Opin myös ratkaisemaan merge-konflikteja ja ymmärrän nyt paremmin, miten eri Git-työkalut vaikuttavat projekteihin.
+
+## Ps
+- Jesse Lehtinen
+- NIC25SP
